@@ -1,2 +1,5 @@
 /venv
 /.idea
+/go/postopush
+/.vscode
+/go/vendor/*
